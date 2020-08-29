@@ -1,0 +1,2 @@
+# Factyry
+An idle game
